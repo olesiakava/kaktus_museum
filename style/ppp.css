@@ -1,0 +1,48 @@
+body {
+    background-color: #b8e3c3;
+    font-family:  'Shadows Into Light', cursive;
+}
+
+#yyy .navbar-brand {
+    color: #26ada7;
+}
+
+#yyy .nav-link {
+    color: white;
+}
+#yyy .nav-link:hover {
+    color: #26ada7;
+}
+
+.slash {
+    color: white;
+    text-align: center ;
+    font-weight: 100 ;
+    font-size: 3rem;
+}
+.slash span {
+    color: #26ada7;
+}
+ @media (max-width: 1200px) {
+     .slash {
+         font-weight: 100 ;
+         font-size: 2rem;
+     }
+ }
+
+.qqq {
+    height: 4em;
+}
+.www {
+    color: #26ada7;
+    font-size: 1.4rem;
+    line-height: 2;
+}
+.www p {
+    color: #2bccc4;
+    font-size: 1.2rem;
+
+}
+.navbar {
+    background-color: rgba(58, 199, 145, .9);
+}
